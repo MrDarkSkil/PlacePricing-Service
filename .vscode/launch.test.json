@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "PlacePricing-Service",
+                "projectName": "PlacePricing-Service",
+                "workingDirectory": "/Users/hubert_i/projects/PlacePricing-Service",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "PlacePricing-Service",
+                "projectName": "PlacePricing-Service",
+                "workingDirectory": "/Users/hubert_i/projects/PlacePricing-Service",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
