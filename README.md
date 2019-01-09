@@ -25,6 +25,9 @@ For that we need to create two operations:
     When you need to manage places with seats  and offers like a concert hall, plane seller plan etc..
 
 
+PlacePricing Service was be used in this project: https://github.com/remigastaldi/InnoEvent
+
+
 ## Features 
  - Place
     - Create place
