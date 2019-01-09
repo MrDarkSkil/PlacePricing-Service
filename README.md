@@ -46,6 +46,11 @@ For that we need to create two operations:
 
 ## Installation
 
+Download **PlacePricing-Service.jar** latest release here: https://github.com/MrDarkSkil/PlacePricing-Service/releases  
+Create **libs** folder and put **PlacePricing-Service.jar** inside.
+
+And add the following lines into your **build.gradle** file.
+
 Gradle:
 
 ```gradle
