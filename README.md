@@ -35,7 +35,7 @@ For that we need to create two operations:
 - Offer
     - Create Offer
     - Delete Offer
-    - Edit Offer infos (recution, reductionType, description)
+    - Edit Offer infos (reduction, reductionType, description)
     - Add OfferCondition to an offer
     - Delete OfferCondition
     - Edit OfferCondition infos (description, logicalOperator)
