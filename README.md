@@ -56,7 +56,7 @@ Gradle:
 ```gradle
 repositories {
     flatDir {
-        dirs '../build/libs' // Path to the jar lib
+        dirs './libs' // Path to the jar lib
     }
 }
 
