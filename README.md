@@ -1,5 +1,7 @@
 # PlacePricing Service
 
+[![Build Status](https://travis-ci.com/MrDarkSkil/PlacePricing-Service.svg?branch=master)](https://travis-ci.com/MrDarkSkil/PlacePricing-Service)
+
 PlacePricing is a Java library that can be used to manage places and offers. It can assign a place to a price and assign many offer to it. Also you can manage offer with an reduction value like `50`, reduction type `PERCENTAGE` or `AMOUT`, description and a name;
 
 An offer can have many offer condition. This allow to give when an offer can be applied for example we can create an offer condition with name set to `age` and a relation operator `OR, AND, NOT` to link this condition with the next condition.
